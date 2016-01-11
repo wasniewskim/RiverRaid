@@ -2,8 +2,7 @@
 
 How to play:
 
-To move left/rigth - use use arrow key left/right
-
+To move left/rigth - use use arrow key left/right\n
 To move faster - use up arrow
 
 Fire - Space bar
